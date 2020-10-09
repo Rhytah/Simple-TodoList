@@ -1,4 +1,5 @@
 # vue_crash_todolist
+This is a practice project to ramp up on vue js skills.
 
 ## Project setup
 ```
