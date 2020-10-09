@@ -14,7 +14,7 @@ export default {
 </script>
 <style scoped>
 .header {
-  background:rgb(0, 97, 97);
+  background:rgb(0 65 97);
   color: #fff;
   text-align: center;
   padding: 10px;

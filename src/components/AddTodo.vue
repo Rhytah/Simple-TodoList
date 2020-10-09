@@ -39,7 +39,7 @@ input[type="text"] {
 }
 input[type="submit"] {
   flex: 2;
-  background-color: rgb(18, 94, 94);
+  background-color: rgb(0 65 97);
   color: antiquewhite;
   border-radius: 1em;
   font-size: 14px;
